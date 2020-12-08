@@ -4,7 +4,7 @@
 • Python libraries used were, matplot, numpy, pandas, streamlit for display insights on the web dashboard, wordcloud, nltk for sentiment analysis, beautifulsoup, and requests.
 
 
-pip install --upgrade streamlit
-Copy the python file in your device. 
-Go to the file location in the command prompt.
-streamlit run 
+##### pip install --upgrade streamlit
+##### Copy the python file in your device. 
+##### Go to the file location in the command prompt.
+##### streamlit run Sentiment Analysis Streamlit app.py
